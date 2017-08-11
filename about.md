@@ -4,12 +4,21 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a third year undergraduate student currently studying at PUC-Rio and majoring in computer engineering. I'm also an intern at a tech start-up based in Rio de Janeiro called [Jobzi](https://jobzi.com/) that aims to provide smarter ways of matching jobs and candidates using Machine Learning techniques.
 
-### More Information
+### Internships
 
-A place to include any other types of information that you'd like to include about yourself.
+
+* **Data Science Intern at Jobzi** (April 2017 - Present) 
+  - Developed new features for the search engine and measure its effectiveness using performance metrics such as precision and recall.
+  - Performed statistical analysis using linear regression to estimate search time based on documents found.
+
+### Published Papers
+
+
+* [On Compression Techniques for Computing Convolutions](https://doi.org/10.1109/DCC.2016.82){:target="_blank"}
+* [LSHSIM: A Locality Sensitive Hashing Based Method for Multiple-Point Geostatistics](https://doi.org/10.1016/j.cageo.2017.06.013){:target="_blank"}
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lucasapava@gmail.com](mailto:lucasapava@gmail.com)
