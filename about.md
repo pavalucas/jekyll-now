@@ -4,14 +4,16 @@ title: About
 permalink: /about/
 ---
 
-I'm a third year undergraduate student currently studying at PUC-Rio and majoring in computer engineering. I'm also an intern at a tech start-up based in Rio de Janeiro called [Jobzi](https://jobzi.com/) that aims to provide smarter ways of matching jobs and candidates using Machine Learning techniques.
+I'm currently in my first year as a Computer Science M.S. student at PUC-Rio. I'm also a data scientist at a tech start-up based in Rio de Janeiro called [Jobzi](https://jobzi.com/) that aims to provide smarter ways of matching jobs and candidates using Machine Learning techniques.
 
 ### Internships
 
 
-* **Data Science Intern at Jobzi** (April 2017 - Present) 
-  - Developed new features for the search engine and measure its effectiveness using performance metrics such as precision and recall.
-  - Performed statistical analysis using linear regression to estimate search time based on documents found.
+* **Data Scientist/Software Engineer Intern at Jobzi** (May 2017 - April 2019) 
+  - Implemented search algorithm using Solr. Improved search time in 50% and results quality in 30%. (Java and Python)
+  - Used NLP techniques to recommend skills for resumes. (Python)
+  - Improved company’s infrastructure using microservices and applications such as ELK, Sleuth and Zipkin. Decreased build time in 100% and debug time in 50%. (Java)
+  - Worked on job’s salary identification using gradient boosting and metrics such as precision and recall to evaluate proposed method. Improved recognition from 70% to 90%. (Java and Python)
 
 ### Published Papers
 
